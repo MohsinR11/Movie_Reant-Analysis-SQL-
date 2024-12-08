@@ -1,1 +1,1 @@
-# Movie_Reant-Analysis-SQL-
+# Movie_Rent-Analysis-SQL-
