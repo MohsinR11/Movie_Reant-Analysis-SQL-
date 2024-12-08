@@ -1,4 +1,4 @@
-Movie Rent Analysis (SQL)
+# Movie Rent Analysis (SQL)
 
 
 # Overview
