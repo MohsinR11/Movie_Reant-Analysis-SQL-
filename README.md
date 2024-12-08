@@ -37,3 +37,7 @@ SELECT HOUR(Rental_Time) AS Hour, COUNT(*) AS Rentals
 FROM Movie_Rentals
 GROUP BY HOUR(Rental_Time)
 ORDER BY Rentals DESC;
+
+
+## **Contact**  
+📧 **Mohsin Raza**: mohsinraza@example.com  
